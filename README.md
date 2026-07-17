@@ -102,6 +102,15 @@ A real-time AI security guardrail that analyzes incoming prompts and outgoing mo
 
 Detects prompt injection, jailbreaks, system-prompt theft, API-key fishing, encoded attacks, multilingual attacks, multi-turn attacks, PII leakage, and sensitive-data exposure.
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoshiniMlakshmana&show_icons=true&theme=tokyonight&hide_border=true" alt="Roshini's GitHub statistics" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniMlakshmana&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in Roshini's repositories" />
+</p>
+
 Every detection is mapped to the **OWASP LLM Top 10 (2025)** and **MITRE ATLAS** to support SOC investigations, governance, and compliance.
 
 **Tech Stack:** Python, FastAPI, scikit-learn, Hugging Face, Sentence Transformers, LangFlow, MCP, Promptfoo, Docker
