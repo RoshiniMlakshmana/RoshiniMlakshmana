@@ -121,11 +121,5 @@ The parser helps identify suspicious processes, command-line activity, network c
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoshiniMlakshmana&show_icons=true&theme=tokyonight&hide_border=true" alt="Roshini's GitHub statistics" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniMlakshmana&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in Roshini's repositories" />
-</p>
 
 
