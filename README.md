@@ -20,7 +20,7 @@ Cybersecurity professional specializing in Security enginner with threat detecti
 
 I am a **Security Engineer and Cybersecurity Analyst** with over **2.3 years of experience at IBM**
 
-My expertise includes **Detection Engineering, Incident Response, Threat Hunting, Cyber Threat Intelligence, SOC Operations, SIEM, SOAR, Endpoint Security, Log Analysis, Digital Forensics, Cloud Security, Security Automation, and MITRE ATT&CK mapping**.
+My expertise includes **Detection Engineering, Incident Response, Threat Hunting, Cyber Threat Intelligence, SIEM, SOAR, Endpoint Security, Log Analysis, Digital Forensics, Cloud Security, Security Automation, and MITRE ATT&CK mapping**.
 
 I am also building security solutions at the intersection of **Artificial Intelligence and Cybersecurity**, including **AI attack detection, LLM security guardrails, prompt injection detection, model supply-chain security, RAG security, MCP security, AI-BOM generation, and MITRE ATLAS mapping**.
 
