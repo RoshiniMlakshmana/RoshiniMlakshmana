@@ -116,7 +116,7 @@ The parser helps identify suspicious processes, command-line activity, network c
 
 **Tech Stack:** Python, Sysmon, VirusTotal, URLScan, ThreatFox, MITRE ATT&CK, JSON, Windows Event Logs
 
-🔗 **Repository:** [View Project](PASTE_SYSMON_PARSER_REPOSITORY_LINK)
+🔗 **Repository:** [View Sysmon Security Parser](https://github.com/RoshiniMlakshmana/sysmon-security-parser-and-log-analysis)
 
 
 ---
