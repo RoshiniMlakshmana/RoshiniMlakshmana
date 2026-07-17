@@ -43,3 +43,68 @@ Cybersecurity Blog  — Medium (@Commoness): 60+ articles on detection engineeri
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshinimlakshmana.com-000000?logo=googlechrome&logoColor=white)](https://roshinimlakshmana.com/)
 
 -->
+## 🛠️ Technical Skills
+
+### Security Operations & Detection
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?logo=ibm&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?logo=wazuh&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFCC00?logoColor=black)
+![Shuffle SOAR](https://img.shields.io/badge/Shuffle-SOAR-blue)
+
+### Threat Intelligence & Incident Response
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-darkred)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-Windows-blue)
+![NIST](https://img.shields.io/badge/NIST-Incident%20Response-darkblue)
+
+### AI & LLM Security
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangFlow](https://img.shields.io/badge/LangFlow-AI%20Workflows-purple)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black)
+![MCP](https://img.shields.io/badge/MCP-AI%20Security-green)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-orange)
+
+### Programming, Cloud & DevSecOps
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+### Digital Forensics & Security Testing
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-darkgreen)
+![Volatility](https://img.shields.io/badge/Volatility-Memory%20Forensics-darkblue)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+
+## 🚀 Featured Cybersecurity & AI Security Projects
+
+### 1. 🔐 MCP Vulnerability Detection Gateway
+
+An AI security gateway designed to inspect and control communication between **LLM applications, AI agents, MCP clients, and MCP servers**.
+
+The project focuses on detecting unsafe tool calls, malicious prompts, unauthorized actions, sensitive-data exposure, and security risks before requests reach connected MCP tools.
+
+**Key Areas:** MCP Security, AI Agent Security, Prompt Injection Detection, Tool-Call Validation, Access Control, LLM Security
+
+**Tech Stack:** Python, FastAPI, MCP, LangFlow, LLM Guardrails, MITRE ATLAS, OWASP LLM Top 10
+
+🔗 **Repository:** [View Project](https://github.com/RoshiniMlakshmana/MCP-vulnerability-detection)
+
+2. 🛡️ AI Attack Detection Classifier — Confidence-Gated Guardrail
+
+A real-time AI security guardrail that analyzes incoming prompts and outgoing model responses, classifying activity as **Allow, Flag, or Block** based on confidence scores.
+
+Detects prompt injection, jailbreaks, system-prompt theft, API-key fishing, encoded attacks, multilingual attacks, multi-turn attacks, PII leakage, and sensitive-data exposure.
+
+Every detection is mapped to the **OWASP LLM Top 10 (2025)** and **MITRE ATLAS** to support SOC investigations, governance, and compliance.
+
+**Tech Stack:** Python, FastAPI, scikit-learn, Hugging Face, Sentence Transformers, LangFlow, MCP, Promptfoo, Docker
+
+🔗 **Repository:** [View Project](https://github.com/RoshiniMlakshmana/ai-prompt-attack-detector-and-classifier)
+
