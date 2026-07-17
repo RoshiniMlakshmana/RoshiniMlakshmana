@@ -121,5 +121,12 @@ The parser helps identify suspicious processes, command-line activity, network c
 
 ---
 
+---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" alt="Roshini's GitHub statistics" />
+  <img src="./profile/top-langs.svg" width="40%" alt="Roshini's most used languages" />
+</p>
 
