@@ -94,13 +94,30 @@ The project focuses on detecting unsafe tool calls, malicious prompts, unauthori
 
 **Tech Stack:** Python, FastAPI, MCP, LangFlow, LLM Guardrails, MITRE ATLAS, OWASP LLM Top 10
 
-🔗 **Repository:** [View Project](https://github.com/RoshiniMlakshmana/MCP-vulnerability-detection)
+🔗 **Repository:** [View MCP Vulnerability Detection](https://github.com/RoshiniMlakshmana/MCP-vulnerability-detection)
+
+
 
 2. 🛡️ AI Attack Detection Classifier — Confidence-Gated Guardrail
 
 A real-time AI security guardrail that analyzes incoming prompts and outgoing model responses, classifying activity as **Allow, Flag, or Block** based on confidence scores.
 
 Detects prompt injection, jailbreaks, system-prompt theft, API-key fishing, encoded attacks, multilingual attacks, multi-turn attacks, PII leakage, and sensitive-data exposure.
+
+🔗 **Repository:** [View AI Attack Detection Classifier](https://github.com/RoshiniMlakshmana/ai-prompt-attack-detector-and-classifier)
+
+3. 📊Sysmon Log Parser with Threat Intelligence Enrichment
+
+A detection-engineering project that parses Windows Sysmon logs, extracts security-relevant indicators, and enriches them with threat-intelligence sources.
+
+The parser helps identify suspicious processes, command-line activity, network connections, file changes, hashes, domains, and IP addresses. Detected activity can be mapped to **MITRE ATT&CK techniques** and do the automated timeline based on the highest supicious actiivty for investigation and threat hunting.
+
+**Key Areas:** Log Analysis, Windows Security, Sysmon, IOC Enrichment, Threat Hunting, Detection Engineering
+
+**Tech Stack:** Python, Sysmon, VirusTotal, URLScan, ThreatFox, MITRE ATT&CK, JSON, Windows Event Logs
+
+🔗 **Repository:** [View Project](PASTE_SYSMON_PARSER_REPOSITORY_LINK)
+
 
 ---
 
@@ -111,9 +128,4 @@ Detects prompt injection, jailbreaks, system-prompt theft, API-key fishing, enco
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiniMlakshmana&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in Roshini's repositories" />
 </p>
 
-Every detection is mapped to the **OWASP LLM Top 10 (2025)** and **MITRE ATLAS** to support SOC investigations, governance, and compliance.
-
-**Tech Stack:** Python, FastAPI, scikit-learn, Hugging Face, Sentence Transformers, LangFlow, MCP, Promptfoo, Docker
-
-🔗 **Repository:** [View Project](https://github.com/RoshiniMlakshmana/ai-prompt-attack-detector-and-classifier)
 
