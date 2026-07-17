@@ -13,7 +13,6 @@ Cybersecurity professional specializing in Security enginner with threat detecti
 ---
 
 🎯 Open to Security Engineering, Detection & Incident Response, Threat Intelligence, , DFIR ,AI Security & automation opportunities!--
-**RoshiniMlakshmana/RoshiniMlakshmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
