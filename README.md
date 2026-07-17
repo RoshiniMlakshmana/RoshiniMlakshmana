@@ -25,11 +25,13 @@ My expertise includes **Detection Engineering, Incident Response, Threat Hunting
 
 I am also building security solutions at the intersection of **Artificial Intelligence and Cybersecurity**, including **AI attack detection, LLM security guardrails, prompt injection detection, model supply-chain security, RAG security, MCP security, AI-BOM generation, and MITRE ATLAS mapping**.
 
-🔐 Experienced with **Splunk, Microsoft Sentinel, IBM QRadar, Wazuh,IBMglass, Shuffle SOAR playbooks Sysmon, AWS, Azure, Python, FastAPI, LangFlow, Hugging Face,MCP, Ollama, Autopsy, Sleuth Kit, Magnet AXIOM, Volatility, CyberChef and Docker**.
+🔐 Experienced with **Splunk, Microsoft Sentinel, IBM QRadar, Wazuh,IBMglass, Shuffle SOAR playbooks Sysmon, AWS, Azure, Python, FastAPI, LangFlow,Rag Pipeline, Hugging Face,MCP, Ollama, Autopsy, Sleuth Kit, Magnet AXIOM, Volatility, CyberChef and Docker**.
 
 🎓 M.S. in Cybersecurity with a **4.0 GPA** in cybercrime Investigation  
 📜 CompTIA Security+  & Ai in Cybersecurity Certified  
 📍 San Francisco Bay Area , CA & Austin, TX | Open to relocation  
+
+Cybersecurity Blog  — Medium (@Commoness): 60+ articles on detection engineering, SOC automation, threat intelligence, and AI in security projects. 
 
 ---
 
@@ -37,16 +39,8 @@ I am also building security solutions at the intersection of **Artificial Intell
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshini%20M%20Lakshmana-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshini-m-lakshmana-b51ab3243/)
 
+[![Medium](https://img.shields.io/badge/Medium-@Commoness-000000?logo=medium&logoColor=white)](https://medium.com/@Commoness)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-roshinimlakshmana.com-000000?logo=googlechrome&logoColor=white)](https://roshinimlakshmana.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
