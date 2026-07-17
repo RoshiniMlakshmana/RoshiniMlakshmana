@@ -1,18 +1,18 @@
 
 
-<<h1 align="center">Hi, I'm Roshini M Lakshmana 👋</h1>
+<h1 align="center">Hi, I'm Roshini M Lakshmana 👋</h1>
 
 <h3 align="center">
 Security Engineer | Detection Engineering | Incident Response | Threat Intelligence | AI Security
 </h3>
 
 <p align="center">
-Cybersecurity professional specializing in Security enginner with threat detection, incident response, threat intelligence, SIEM, SOAR, DFIR, cloud security, detection-as-code, and AI/LLM security.
+Security Engineer specializing in threat detection, incident response, threat intelligence, SIEM, SOAR, DFIR, cloud security, detection-as-code, security automation, and AI/LLM security.
 </p>
 
 ---
 
-🎯 Open to Security Engineering, Detection & Incident Response, Threat Intelligence, , DFIR ,AI Security & automation opportunities!--
+🎯 **Open to Security Engineering, Detection Engineering, Incident Response, Threat Intelligence, DFIR, AI Security, and Security Automation opportunities.**
 
 ---
 
