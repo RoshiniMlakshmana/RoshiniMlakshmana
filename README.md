@@ -56,9 +56,11 @@ Cybersecurity Blog  — Medium (@Commoness): 60+ articles on detection engineeri
 ### Threat Intelligence & Incident Response
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 ![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-darkred)
+![Maltego](https://img.shields.io/badge/Maltego-00A98F?style=flat-square)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-Windows-blue)
 ![NIST](https://img.shields.io/badge/NIST-Incident%20Response-darkblue)
+
 
 ### AI & LLM Security
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
