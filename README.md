@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Roshini M Lakshmana 👋</h1>
 
 <h3 align="center">
-Security Engineer | Detection Engineering | Incident Response | Threat Intelligence | AI Security
+AI Security Engineer | Detection Engineering | Incident Response | Threat Intelligence 
 </h3>
 
 <p align="center">
