@@ -28,7 +28,7 @@ I am also building security solutions at the intersection of **Artificial Intell
 📜 CompTIA Security+ & AI in Cybersecurity certified  
 📍 San Francisco Bay Area, CA | Open to relocation  
 
-📝 Cybersecurity blog — Medium (@Commoness): 60+ articles on detection engineering, SOC automation, threat intelligence, and AI security.
+📝 Cybersecurity blog — Medium (@Commoness): 80+ articles on detection engineering, SOC automation, threat intelligence, and AI security.
 
 ---
 
@@ -128,9 +128,4 @@ The parser identifies suspicious processes, command-line activity, network conne
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="Roshini's GitHub statistics" />
-  <img src="./profile/top-langs.svg" width="40%" alt="Roshini's most used languages" />
-</p>
